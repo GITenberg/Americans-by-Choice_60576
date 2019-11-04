@@ -1,0 +1,29 @@
+_repo: Americans-by-Choice_60576
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gavit, John Palmer
+    birthdate: 1868
+    deathdate: 1954
+    gutenberg_agent_id: '51031'
+    url: http://www.gutenberg.org/2009/agents/51031
+description: ''
+gutenberg_issued: '2019-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60576'
+  lccn: '22018538'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civics'
+- !lcsh 'Naturalization -- United States'
+- !lcsh 'Aliens -- United States'
+- !lcc 'JK'
+- !lcsh 'Americanization'
+- !lcsh 'Immigrants -- United States'
+- GITenberg
+title: Americans by Choice
+url: http://www.gutenberg.org/ebooks/60576
